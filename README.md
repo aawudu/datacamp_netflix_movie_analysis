@@ -1,4 +1,4 @@
-# Data Analysis on Netflix Database 
+# Data Analysis on Netflix Dataset 
 
 ## by Aisha Awudu
 
